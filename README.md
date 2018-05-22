@@ -1,4 +1,4 @@
-# Fdf
+# Wolf3D
 3rd project of [42 School](https://www.42.fr) Computer Graphics Branch.
 
 ## Description
